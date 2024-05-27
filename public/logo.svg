@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 250 80" style="background-color: black;">
+  <!-- Background -->
+  <rect width="200" height="80" fill="black"/>
+  <!-- Text -->
+  <text x="20" y="50%" font-family="Arial" font-size="20" fill="#FF5722">S</text>
+  <text x="40" y="50%" font-family="Arial" font-size="20" fill="#2196F3">k</text>
+  <text x="60" y="50%" font-family="Arial" font-size="20" fill="#FFC107">e</text>
+  <text x="80" y="50%" font-family="Arial" font-size="20" fill="#4CAF50">t</text>
+  <text x="100" y="50%" font-family="Arial" font-size="20" fill="#9C27B0">c</text>
+  <text x="120" y="50%" font-family="Arial" font-size="20" fill="#FF9800">h</text>
+  
+</svg>
